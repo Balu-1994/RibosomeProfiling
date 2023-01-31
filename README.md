@@ -42,7 +42,7 @@ All the scripts needs to be executed in the below mentioned project executions s
       * [Codon Occupancy](./RemoteCluster/UnProcessed_Reads/CondonOccupancy)
         * [Codon Occupancy Generation](./RemoteCluster/UnProcessed_Reads/CondonOccupancy/Codon_occupancy_generation.sh)
  * [Local Environment](./LocalEnvironment)
-   * [Ribo-seQC](./LocalMachine/Ribo-seQC)
+   * [Ribo-seQC](./LocalEnvironment/Ribo-seQC)
       * [Genome 2bit](./LocalEnvironment/Ribo-seQC/genome_2bit.sh)
       * [Quality Control](./LocalEnvironment/Ribo-seQC/Quality_Control.R)
    * [Differential Expression Analysis](./LocalEnvironment/DifferentialExpressionAnalysis)
