@@ -1,0 +1,8 @@
+# Joining all the RNA annotation files
+
+# File from ENSEMBL: GRCh38_r_sno_sn_RNA_ENSEMBL.txt
+# File from NCBI: GRCh38_rRNA_NCBI.txt
+# File from tRNAdb: GRCh38_tRNA_tRNADB.txt
+
+# Catenate the files
+cat *.txt > GRCh38_p13_r-t-sno-sn-RNA_ENSEMBL_NCBI_GtRNAdb.fa
